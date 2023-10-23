@@ -7,4 +7,17 @@ if (number < 50) {
 } else {
     console.log("error");
 }
+// meore davaleba
+let item = "Mariam"
+let result = (item == "Mariam") ? "true": "false";
+console.log (result)
 
+// mesame davaleba
+let userName="Mariam"
+switch (userName) {
+    case "Mariam"
+}
+console.log("true");
+break;
+default: 
+console.log(false);
