@@ -15,9 +15,19 @@ console.log (result)
 // mesame davaleba
 let userName="Mariam"
 switch (userName) {
-    case "Mariam"
+   case "Mariam"
 }
-console.log("true");
+console.log("true");{
 break;
 default: 
 console.log(false);
+}
+
+
+// Lesson 2 
+// 1 davaleba
+
+let studentNames = ['lasha', 'anna', 'nino']
+console.log(studentNames [0]);
+
+let array1 = [1, 2, 4, -1, -3, 8, 7, 0, -5, 18, 12];
